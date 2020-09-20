@@ -1,1 +1,3 @@
 # Hack_Chennai
+
+The goal of this project is to create a system which can detect the presence of viruses and bacteria in the human body with the help of Deep learning model(CNN) created and trained solely for this purpose. The system is capable of identifying the chances of a patient containing a virus/bacteria by taking their chest X-ray as input and predicting the output using our model for the user input.
